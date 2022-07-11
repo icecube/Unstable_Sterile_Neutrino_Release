@@ -5,6 +5,3 @@ This repository contains:
 - -2 Delta LLH values reported in Fig. 3 and Suppl. Fig. 1
 - Bayes factor values reported in Fig. 4 and Suppl. Fig. 2
 - Two plotting scripts
-
-When using this release, please cite:
-"First Search for Unstable Sterile Neutrinos with the IceCube Neutrino Observatory," https://arxiv.org/abs/2204.00612
