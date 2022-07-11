@@ -1,2 +1,2 @@
-# Unstable_Sterile_Neutrino_Release
-Digital release for search for unstable sterile neutrinos
+# UnstableSterileNeutrinoRelease
+LLH and Bayes Factor release for Unstable Sterile Neutrinos
