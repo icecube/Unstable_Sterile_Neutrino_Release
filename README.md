@@ -7,3 +7,4 @@ This repository contains:
 - Two plotting scripts
 
 When using this release, please cite:
+- "First Search for Unstable Sterile Neutrinos with the IceCube Neutrino Observatory," https://arxiv.org/abs/2204.00612
